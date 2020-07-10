@@ -1,3 +1,4 @@
 Hi This is my new file which i have added in development branch
 new text file
+file2 added
 
